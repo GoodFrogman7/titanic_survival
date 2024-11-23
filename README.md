@@ -39,6 +39,4 @@ This project analyzes the famous Titanic dataset to predict passenger survival u
 ### Feature Importance
 ![Feature Importance](visuals/feature_importance.png)
 
----
 
-## Repository Structure
