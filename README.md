@@ -20,12 +20,14 @@
 - **Correlation Analysis**: Explored relationships between features to identify influential variables.
 
 ### **Visualization Techniques**
-- Designed insights-driven visualizations, including:
-  - Survival rates by gender and passenger class.
-  - Age distribution by survival.
-  - Correlation heatmaps to analyze feature relationships.
-  - Confusion matrices for evaluating classification results.
-  - Feature importance plots for Random Forest.
+- Designed insights-driven visualizations to uncover survival patterns and model effectiveness:
+  - [Survival Rates by Gender](visuals/survival_by_gender.png): Showed stark differences between male and female survival rates.
+  - [Survival Rates by Passenger Class](visuals/survival_by_class.png): Highlighted the socioeconomic impact on survival.
+  - [Age Distribution by Survival](visuals/age_distribution_by_survival.png): Revealed the advantage of younger passengers.
+  - [Correlation Heatmap](visuals/correlation_heatmap.png): Identified relationships between features like `Sex` and `Pclass`.
+  - [Confusion Matrix: Logistic Regression](visuals/confusion_matrix_logistic.png): Displayed the classification results for Logistic Regression.
+  - [Confusion Matrix: Random Forest](visuals/confusion_matrix_randomforest.png): Evaluated the performance of Random Forest.
+  - [Feature Importance](visuals/feature_importance.png): Highlighted key predictors influencing survival.
 
 ### **Project Development and Version Control**
 - **Git**: Used for version control of scripts, datasets, and visualizations.
